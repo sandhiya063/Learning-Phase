@@ -4,7 +4,9 @@ const Task=(props)=>{
     return(
        <>
        <div>
-        <h1>Sample page</h1>
+        <h1>Sample
+          
+        </h1>
       </div>
       </>
  )
